@@ -19,6 +19,7 @@
 		2BC8B1332BB40CF600A84706 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2BC8B1322BB40CF500A84706 /* GoogleService-Info.plist */; };
 		2BC8B1362BB49CCC00A84706 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 2BC8B1352BB49CCC00A84706 /* FirebaseFirestore */; };
 		2BC8B1382BB49CCC00A84706 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2BC8B1372BB49CCC00A84706 /* FirebaseFirestoreSwift */; };
+		2BC8B13A2BB4C62100A84706 /* MessagesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B1392BB4C62100A84706 /* MessagesManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		2BC8B12E2BB40B0500A84706 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		2BC8B1302BB40B9100A84706 /* MessageField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageField.swift; sourceTree = "<group>"; };
 		2BC8B1322BB40CF500A84706 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2BC8B1392BB4C62100A84706 /* MessagesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			children = (
 				2BC8B1322BB40CF500A84706 /* GoogleService-Info.plist */,
 				2BC8B1182BB407A300A84706 /* ChatAppJJApp.swift */,
+				2BC8B1392BB4C62100A84706 /* MessagesManager.swift */,
 				2BC8B11A2BB407A300A84706 /* ContentView.swift */,
 				2BC8B1292BB4097D00A84706 /* Models */,
 				2BC8B1262BB4088000A84706 /* Components */,
@@ -186,6 +189,7 @@
 				2BC8B11B2BB407A300A84706 /* ContentView.swift in Sources */,
 				2BC8B12F2BB40B0500A84706 /* Extensions.swift in Sources */,
 				2BC8B12B2BB409A000A84706 /* Message.swift in Sources */,
+				2BC8B13A2BB4C62100A84706 /* MessagesManager.swift in Sources */,
 				2BC8B1312BB40B9100A84706 /* MessageField.swift in Sources */,
 				2BC8B12D2BB40A0C00A84706 /* MessageBubble.swift in Sources */,
 				2BC8B1192BB407A300A84706 /* ChatAppJJApp.swift in Sources */,
