@@ -15,6 +15,7 @@
 		2BC8B12B2BB409A000A84706 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B12A2BB409A000A84706 /* Message.swift */; };
 		2BC8B12D2BB40A0C00A84706 /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B12C2BB40A0C00A84706 /* MessageBubble.swift */; };
 		2BC8B12F2BB40B0500A84706 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B12E2BB40B0500A84706 /* Extensions.swift */; };
+		2BC8B1312BB40B9100A84706 /* MessageField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC8B1302BB40B9100A84706 /* MessageField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		2BC8B12A2BB409A000A84706 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		2BC8B12C2BB40A0C00A84706 /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
 		2BC8B12E2BB40B0500A84706 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		2BC8B1302BB40B9100A84706 /* MessageField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				2BC8B12C2BB40A0C00A84706 /* MessageBubble.swift */,
+				2BC8B1302BB40B9100A84706 /* MessageField.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				2BC8B11B2BB407A300A84706 /* ContentView.swift in Sources */,
 				2BC8B12F2BB40B0500A84706 /* Extensions.swift in Sources */,
 				2BC8B12B2BB409A000A84706 /* Message.swift in Sources */,
+				2BC8B1312BB40B9100A84706 /* MessageField.swift in Sources */,
 				2BC8B12D2BB40A0C00A84706 /* MessageBubble.swift in Sources */,
 				2BC8B1192BB407A300A84706 /* ChatAppJJApp.swift in Sources */,
 				2BC8B1282BB408B600A84706 /* TitleRow.swift in Sources */,
